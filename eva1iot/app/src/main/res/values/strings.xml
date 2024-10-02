@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">home</string>
+    <string name="nombre">nombre</string>
+    <string name="contrase_a">contraseña\n</string>
+    <string name="correo_electr_nico">correo</string>
+    <string name="registrarse">registrarse</string>
+    <string name="atras">atras</string>
+    <string name="blutu">Bluetooth:activado</string>
+    <string name="celu">Hwei p30 Lite</string>
+    <string name="conectar">Conectar</string>
+    <string name="celu2">Samsung galaxy A06</string>
+    <string name="celu3">Iphone 16 pro max</string>
+    <string name="paraAtras">atras</string>
+    <string name="numero">60</string>
+    <string name="consumo">ver evolucion del consumo</string>
+    <string name="datos">Refrescar los datos</string>
+    <string name="costo">Ver costo aproximado</string>
+    <string name="energia">KWH</string>
+    <string name="configuraciones">Configuraciones</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="wifi">WiFi</string>
+    <string name="restablecer">Restablecer</string>
+    <string name="idioma">Idioma</string>
+</resources>
